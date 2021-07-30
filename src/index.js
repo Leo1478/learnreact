@@ -16,7 +16,7 @@ class Main extends React.Component{
 
 
 
-
+// make project of sorting algorithm visualizer 
 
 
 
